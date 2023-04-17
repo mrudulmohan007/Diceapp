@@ -1,2 +1,2 @@
 # Diceapp
-A simple diceapp in which its number changes whenever  we click on them
+A simple diceapp made using dart , number on the dice changes whenever  we click on them
